@@ -8,6 +8,8 @@
 4. Use the **Delete button** to remove a class.
 5. Use the **Search bar** to find a teacher quickly.
 
+6. https://classroom-scheduler-akhileshproject.netlify.app/
+
 ---
 
 ## 🖥️ Technologies Used
@@ -43,4 +45,5 @@
 ## ✨ Author
 Created by **Akhilesh Singh**  
 Feel free to contribute and improve this project!
+
 
